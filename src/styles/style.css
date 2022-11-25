@@ -74,7 +74,7 @@ html {
 }
 @media (max-width: 84em) {
   .main-container {
-    margin-top: 15rem;
+    margin-top: 10rem;
     padding: 3.2rem 2rem;
   }
   .tenzies-title {
@@ -96,7 +96,7 @@ html {
 
 @media (max-width: 60em) {
   html {
-    font-size: 55%;
+    font-size: 85%;
   }
   .main-container {
     margin-top: 5rem;
@@ -112,7 +112,7 @@ html {
     padding: 2rem;
   }
   .main-container {
-    margin-top: 5rem;
+    margin-top: 15rem;
     padding: 5.2rem 0;
   }
   .tenzies-title {

@@ -1,6 +1,6 @@
 import "./App.css";
 import "./styles/style.css";
-import Die from "./Die";
+import Die from "./components/Die";
 import React, { useState } from "react";
 import { nanoid } from "nanoid";
 import Confetti from "react-confetti";
